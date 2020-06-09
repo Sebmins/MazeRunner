@@ -17,3 +17,4 @@ Harder difficulty
 When playing the game in the level select there is a “custom” option that allows the player to edit these values and create their own level. This allows for the user generated content and allows for many different types of levels to be created easily. 
 ![](CUSTOM SCREENSHOT)
 
+The game can be downloaded for android or played on my website (https://sebmins.github.io/TileRun/TileRun.html). 
